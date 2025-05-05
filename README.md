@@ -9,7 +9,7 @@ Events:
 
 Aesthetics:
 - USA and CSA localised to show their full names
-- Incorporated the Belle Cartographie Map
+- Incorporated the Belle Cartographie Map (but this might change)
 - Changed loading screens + menu background
 
 Army:
