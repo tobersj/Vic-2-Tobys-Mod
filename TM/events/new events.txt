@@ -1,0 +1,25 @@
+country_event = {
+	id = 900000
+	news = no
+	title = "EVT900000TITLE"
+	desc = "EVT900000DESC"
+	picture = "queenvictoria"
+
+	trigger = {
+		tag = ENG
+		NOT = { SCO = { all_core = { owned_by = ENG } } }
+		NOT = { IRE = { all_core = { owned_by = ENG } } }
+	}
+
+	fire_only_once = yes
+	
+    
+	option = {
+		name = "EVT900000A"
+		ENG= { all_core = { add_core = EGL } }
+		SCO = { all_core = { remove_core = ENG } }
+		IRE = { all_core = { remove_core = ENG } }
+		ENG = { all_core = { remove_core = ENG } }
+		change_tag = EGL
+	}
+}

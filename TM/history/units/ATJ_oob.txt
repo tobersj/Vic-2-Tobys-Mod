@@ -1,0 +1,23 @@
+army = {
+	name = "Army of the Sultan of Atjeh"
+	location = 1405
+	regiment = {
+		name= "1st infantry_light"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "2nd infantry_light"
+		type = irregular
+		home = 1406
+	}
+
+	regiment = {
+		name= "3rd infantry_light"
+		type = irregular
+		home = 1407
+	}
+
+}
+
