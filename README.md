@@ -1,5 +1,7 @@
 # Vic 2 Toby's Mod
 
+This is just a mod I threw together in about a day for fun. I wanted a vanilla-esque mod that felt similiar but a bit quirky. Fixes some aesthetic issues I've had for like forever. Big thanks to everyone who's posted on the forums, the Wiki, and Reddit; the Spudgun Discord Modding Channel; and various mods I referenced for making new unit/events.
+
 ## Changelog:
 
 Events:
