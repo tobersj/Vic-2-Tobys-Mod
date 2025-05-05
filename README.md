@@ -19,7 +19,7 @@ Brigades are now 1000
 - At least it's fun trying it out
 - All resource costs now 1/3
 
-New Light Infantry unit!
+New Light Infantry unit! (using a sprite from Nurse Reno's IGoR PIUR mod becuase I forgot to make my own whoops)
 - Cheaper, faster, lower supply but also weaker than Infantry
 - Unlocked at Flintlock Rifles
 - All starting infantry in 1836 start now Light Infantry
